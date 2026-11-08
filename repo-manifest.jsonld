@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/reaf-sim/commit/80aa17f75c2603648bcf987ff8f3d08e2a19a698",
       "git:hexsha": "80aa17f75c2603648bcf987ff8f3d08e2a19a698",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/reaf-sim/commit/22148d73ad4370b3712cbda969bfa96e50deb156",
